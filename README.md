@@ -62,10 +62,15 @@ Your design includes the following frames/screens:
 
 ---
 
-## ▶️ Demo Video (Optional)
+## ▶️ Demo Video
 
-- You can include a demo video explaining your project.  
-- Recommended: 2–5 minutes showing navigation, prototype, and design features.
+
+
+
+
+
+
+
 
 **Demo Video Link:** ______________________
 
