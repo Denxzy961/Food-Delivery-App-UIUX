@@ -42,7 +42,7 @@ A short walkthrough explaining the design, user flow, and prototype interactions
 <img src="./Onboarding Screen.png" alt="Onboarding Screen" width="320"/>
 
 ### 02 — Login / Signup
-<img src="./Signup Screen.png" altSignup Screen" width="320"/>
+<img src="./Signup Screen.png" alt="Signup Screen" width="320"/>
 
 ### 03 — Home / Restaurant Listing
 <img src="./Restaurant Listing.png" alt="Restaurant Listing" width="320"/>
